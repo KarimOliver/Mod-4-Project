@@ -37,7 +37,9 @@ Here are two examples. The top x ray is of a healthy lung, the bottom is of one 
 Instructions: 
 
 Install Tensorflow
+
 Install Keras
+
 Update Sklearn 
 
 
