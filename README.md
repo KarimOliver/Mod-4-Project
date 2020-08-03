@@ -2,6 +2,9 @@
 
 
 Guide
+
+
+
 The presentation, saved as a pdf can be found in the presentation folder. In the static folder you will find the 
 visualizations. The data folder is where you can find the chest x-rays. The final notebook is in the final notebook
 folder. 
@@ -45,19 +48,19 @@ Update Sklearn
 
 
 
-![Here is a visualization of my first Model](static/Model2_Viz.png)
+![Here is a visualization of my second Model](static/Model2_Viz.png)
 
 
 
-![Here is a visualization of my first Model](static/Model3_Viz.png)
+![Here is a visualization of my third Model](static/Model3_Viz.png)
 
 
 
-![Here is a visualization of my first Model](static/Model4_Viz.png)
+![Here is a visualization of my fourth Model](static/Model4_Viz.png)
 
 
 
-![Here is a visualization of my first Model](static/Model5_Viz.png)
+![Here is a visualization of my fifth Model](static/Model5_Viz.png)
 
 
 
