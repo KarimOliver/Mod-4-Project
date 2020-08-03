@@ -20,14 +20,14 @@ This project relies on a data set of thousanda of images from the Guangzhou Wome
 
 Here are two examples. The top x ray is of a healthy lung, the bottom is of one infected with pneumonia. 
 
-![Healthy Lungs](data/chest_xray/train/NORMAL/IM-0115-0001.jpeg)
+![Healthy Lungs](static/Healthy_Lung.jpeg)
 
 
 
 
 
 
-[Infected Lungs](data/chest_xray/train/PNEUMONIA/person1_bacteria_1.jpeg)
+![Infected Lungs](static/Infected_Lung.jpeg)
 
 
 
