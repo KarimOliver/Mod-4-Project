@@ -16,7 +16,8 @@ As covid continues to ravage the USA, the country is seeing the convergence of t
 
 
 
-This project relies on a data set of thousanda of images from the Guangzhou Women's and Childredn Medical Center in China. The images are separated into the Train, Test, and Validation sets, and are then split up between X-rays of normal lungs i.e NORMAL and ones infected by pneumonia i.e. PNEUMONIA. 
+This project relies on a data set of thousanda of images from the Guangzhou Women's and Childredn Medical Center in China. The images are separated into the Train, Test, and Validation sets, and are then split up between X-rays of normal lungs i.e NORMAL and ones infected by pneumonia i.e. PNEUMONIA. TO access the data visit this link https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia?, and than download the dataset. Finally import the dataset into a data directory in your
+notebook
 
 Here are two examples. The top x ray is of a healthy lung, the bottom is of one infected with pneumonia. 
 
